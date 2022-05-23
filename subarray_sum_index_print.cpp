@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-//print index of subarray euivalent to S.......
+//print index of subarray euivalent to S....... here we go......
 
 int main(){
 
